@@ -1,8 +1,6 @@
 Webhooks
 ========
 
-Read the Docs uses *webhooks* to detect changes in your documentation and trigger builds automatically. When you update your repository (GitHub, Bitbucket, or GitLab), Read the Docs receives a webhook notification and determines if a build should be triggered for the active project version.
-
 Webhook Integrations
 --------------------
 
